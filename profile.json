@@ -1,1 +1,197 @@
-{}
+{
+  "social": {
+    "email": {
+      "address": "nomadops@nomadops.io",
+      "public": true
+    },
+    "blog": {
+      "url": "https://myblog.com",
+      "public": true
+    },
+    "github": {
+      "user": "nomadops",
+      "public": true
+    },
+    "gpg_keys": {
+      "urls": [
+        "https://keybase.io/nomadops/pgp_keys.asc"
+      ],
+      "public": true
+    },
+    "keybase": [
+      {
+        "url": "https://keybase.io/nomadops",
+        "public": true
+      }
+    ],
+    "linkedin": [
+      {
+        "url": "https://linkedin.com/in/nomadops",
+        "public": true
+      }
+    ],
+    "mastodon": {
+      "urls": [
+        "https://mastodon.social/@nomadops"
+      ],
+      "public": true
+    },
+    "podcast": {
+      "url": "https://podcast.podcast/nomadops",
+      "public": true
+    },
+    "slacks": {
+      "urls": [
+        {
+          "name": "https://nomadops.slack.com",
+          "user": "Nomad Ops"
+        }
+      ]
+    },
+    "terraform_registy": {
+      "url": "https://registry.terraform.io/users/nomadops",
+      "public": true
+    },
+    "twitter": {
+      "user": "nomadops",
+      "public": true
+    },
+    "websites": {
+      "urls": [
+        "https://nomadops.io"
+      ],
+      "public": true
+    },
+    "youtube": {
+      "url": "https://youtube.com/nomadops",
+      "public": true
+    },
+    "github_repositories": [
+      {
+        "name": "nomadops/terraform-aws-eks",
+        "description": "Terraform module to provision an EKS cluster on AWS",
+        "public": true
+      }
+    ]
+  },
+  "content": {
+    "headline": "DevOps pipeline and Infrastructure as Code consulting",
+    "industries": [
+      "startups"
+    ],
+    "job_title": "DevOps Engineer",
+    "keywords": [
+      "terraform",
+      "iac",
+      "linux",
+      "docker",
+      "kubernetes",
+      "consulting",
+      "aws",
+      "devops",
+      "sre",
+      "cicd",
+      "github actions",
+      "jenkins",
+      "pulumi",
+      "golang",
+      "containers",
+      "slackops"
+    ],
+    "long_summary": "Infrastructure as code consulting in a verbose manner",
+    "name": "nomad ops",
+    "profile_image": "img/nomadops-profile.png",
+    "short_summary": "Infrastructure as code consulting"
+  },
+  "languages": [
+    {
+      "name": "English",
+      "level": "native"
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      {
+        "name": "bash",
+        "level": "expert"
+      },
+      {
+        "name": "golang",
+        "level": "intermediate"
+      },
+      {
+        "name": "python",
+        "level": "intermediate"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Terraform",
+        "level": "expert"
+      },
+      {
+        "name": "Cloudformation",
+        "level": "expert"
+      },
+      {
+        "name": "Github Actions",
+        "level": "senior"
+      }
+    ]
+  },
+  "logistics": [
+    {
+      "citizenships": [
+        "USA"
+      ],
+      "public": true
+    },
+    {
+      "location": "USA",
+      "public": true
+    },
+    {
+      "remote": true,
+      "public": true
+    },
+    {
+      "travel": true,
+      "public": true
+    },
+    {
+      "visa": true,
+      "public": true
+    },
+    {
+      "residencies": [
+        "USA",
+        "Turkiye"
+      ],
+      "public": true
+    },
+    {
+      "work_authorization": [
+        "USA"
+      ],
+      "public": true
+    },
+    {
+      "timezone": "UTC+3",
+      "public": true
+    }
+  ],
+  "credentials": [
+    {
+      "certifications": [
+        {
+          "name": "AWS Certified SysOps Administrator - Associate",
+          "start_date": "2020-01-01",
+          "end_date": "2022-01-01",
+          "url": "https://cert.verifier/1234",
+          "public": true
+        }
+      ]
+    }
+  ],
+  "mailing_list": true
+}
