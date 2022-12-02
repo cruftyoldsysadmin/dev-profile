@@ -1,5 +1,5 @@
 {
-  "social": {
+  "social": [
     "email": {
       "address": "nomadops@nomadops.io",
       "public": true
@@ -73,7 +73,7 @@
         "public": true
       }
     ]
-  },
+  ],
   "content": {
     "headline": "DevOps pipeline and Infrastructure as Code consulting",
     "industries": [
