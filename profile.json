@@ -45,14 +45,14 @@
   "languages": [
     { "name": "English", "level": "native" }
   ],
-  "skills": [
-    { ["name": "bash"], ["level": "expert"] },
-    { "name": "golang", "level": "intermediate" },
-    { "name": "python", "level": "intermediate" },
-    { "name": "Terraform", "level": "expert" },
-    { "name": "Cloudformation", "level": "expert" },
-    { "name": "Github Actions", "level": "senior" }
-  ],
+  "skills": {
+    "bash": "expert",
+    "golang": "intermediate" ,
+    "python": "intermediate" ,
+    "Terraform": "expert" ,
+    "Cloudformation": "expert" ,
+    "Github Actions": "senior" 
+  },
   "citizenships": ["USA"],
   "timezone": "UTC+3",
   "certifications": [
