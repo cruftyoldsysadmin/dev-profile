@@ -11,58 +11,6 @@
   "terraform_registy": [ "https://registry.terraform.io/users/nomadops" ],
   "twitter": "nomadops",
   "websites": [ { "url": "https://nomadops.io", "description": "Nomad Ops" } ],
-  "youtube": [ "https://youtube.com/nomadops" ],
-  "github_repositories": [
-    {
-      "name": "nomadops/terraform-aws-eks",
-      "description": "Terraform module to provision an EKS cluster on AWS"
-    }
-  ],
-  "headline": "DevOps pipeline and Infrastructure as Code consulting",
-  "industries": [ "startups" ],
-  "job_title": "DevOps Engineer",
-  "keywords": [
-    "terraform",
-    "iac",
-    "linux",
-    "docker",
-    "kubernetes",
-    "consulting",
-    "aws",
-    "devops",
-    "sre",
-    "cicd",
-    "github actions",
-    "jenkins",
-    "pulumi",
-    "golang",
-    "containers"
-  ],
-  "long_summary": "Infrastructure as code consulting in a verbose manner",
-  "name": "nomad ops",
-  "profile_image": "github",
-  "short_summary": "Infrastructure as code consulting",
-  "languages": [
-    { "name": "English", "level": "native" }
-  ],
-  "skills": [
-    { "name": "bash", "level": "expert" },
-    { "name": "golang", "level": "intermediate" },
-    { "name": "python", "level": "intermediate" },
-    { "name": "Terraform", "level": "expert" },
-    { "name": "Cloudformation", "level": "expert" },
-    { "name": "Github Actions", "level": "senior" }
-  ],
-  "citizenships": ["USA"],
-  "timezone": "UTC+3",
-  "certifications": [
-    {
-      "name": "AWS Certified SysOps Administrator - Associate",
-      "start_date": "2020-01-01",
-      "end_date": "2022-01-01",
-      "url": "https://cert.verifier/1234"
-    }
-  ],
-  "mailing_list": true,
-  "bob": "foo"
+  "youtube": [ "https://youtube.com/nomadops" ]
 }
+  
