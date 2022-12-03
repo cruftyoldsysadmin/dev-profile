@@ -14,8 +14,8 @@
   "youtube": "https://youtube.com/nomadops",
   "github_repositories": [
     {
-      "name": "nomadops/terraform-aws-eks",
-      "description": "Terraform module to provision an EKS cluster on AWS"
+      "name": "nomadops/driftctl-slack",
+      "description": "Terraform module to provision driftctl"
     }
   ],
   "headline": "DevOps pipeline and Infrastructure as Code consulting",
