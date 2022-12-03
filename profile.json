@@ -1,6 +1,6 @@
 {
-	"email": { "address": "nomadops@nomadops.io" },
-	"blog": "https://myblog.com/" ,
+  "email": { "address": "nomadops@nomadops.io" },
+  "blog": "https://myblog.com/" ,
 	"github": "nomadops" ,
 	"gpg_keys": "https://keybase.io/nomadops/pgp_keys.asc" ,
   "keybase":  "https://keybase.io/nomadops" ,
