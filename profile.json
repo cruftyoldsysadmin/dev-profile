@@ -46,7 +46,7 @@
     { "name": "English", "level": "native" }
   ],
   "skills": [
-    { "name": "bash", "level": "expert" },
+    { ["name": "bash"], ["level": "expert"] },
     { "name": "golang", "level": "intermediate" },
     { "name": "python", "level": "intermediate" },
     { "name": "Terraform", "level": "expert" },
