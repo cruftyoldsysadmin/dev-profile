@@ -95,8 +95,7 @@
       "jenkins",
       "pulumi",
       "golang",
-      "containers",
-      "slackops"
+      "containers"
     ],
     "long_summary": "Infrastructure as code consulting in a verbose manner",
     "name": "nomad ops",
