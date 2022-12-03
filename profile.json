@@ -1,8 +1,8 @@
 {
   "email": { "address": "nomadops@nomadops.io" },
   "blog": "https://myblog.com/" ,
-	"github": "nomadops" ,
-	"gpg_keys": "https://keybase.io/nomadops/pgp_keys.asc" ,
+  "github": "cruftyoldsysadmin" ,
+  "gpg_keys": "https://keybase.io/nomadops/pgp_keys.asc" ,
   "keybase":  "https://keybase.io/nomadops" ,
   "linkedin":  "https://linkedin.com/in/nomadops",
   "mastodon":  "https://mastodon.social/@nomadops",
@@ -39,7 +39,7 @@
     "containers"
   ],
   "long_summary": "Infrastructure as code consulting in a verbose manner",
-  "name": "nomad ops",
+  "name": "Cruftyold Sysadmin",
   "profile_image": "github",
   "short_summary": "Infrastructure as code consulting",
   "languages": [
