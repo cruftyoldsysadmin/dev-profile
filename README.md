@@ -14,34 +14,3 @@ Autheticate with your GitHub SSO at [profiles.dev/login](https://profiles.dev/lo
 
 ####
 Developed by [nomadops](https://github.com/nomadops)]
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
