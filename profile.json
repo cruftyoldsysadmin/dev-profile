@@ -1,16 +1,4 @@
 {
-	"email": { "address": "nomadops@nomadops.io", "public": true },
-	"blog": { "url": "https://myblog.com/", "public": true },
-	"github": { "user": "nomadops", "public": true },
-	"gpg_keys": [ "https://keybase.io/nomadops/pgp_keys.asc" ],
-  "keybase": [ "https://keybase.io/nomadops" ],
-  "linkedin": [ "https://linkedin.com/in/nomadops"],
-  "mastodon": [ "https://mastodon.social/@nomadops" ],
-  "podcast": "https://podcast.podcast/nomadops",
-  "slacks": [ "https://nomadops.slack.com" ],
-  "terraform_registy": [ "https://registry.terraform.io/users/nomadops" ],
-  "twitter": "nomadops",
-  "websites": [ { "url": "https://nomadops.io", "description": "Nomad Ops" } ],
-  "youtube": [ "https://youtube.com/nomadops" ]
+  "twitter": "nomadops"
 }
   
