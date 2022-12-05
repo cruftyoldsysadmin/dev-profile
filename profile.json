@@ -50,7 +50,6 @@
     "golang": "intermediate" ,
     "python": "intermediate" ,
     "Terraform": "expert" ,
-    "Cloudformation": "expert" ,
     "Github Actions": "senior",
     "Kubernetes": "intermediate",
     "CICD": "intermediate"
