@@ -2,7 +2,7 @@
   "email": { "address": "nomadops@nomadops.io" },
   "blog": "https://myblog.com/" ,
   "github": "cruftyoldsysadmin" ,
-  "gpg_keys": "https://keybase.io/nomadops/pgp_keys.asc" ,
+  "gpg_keys": "https://keybase.io/cruftyoldsysadmin/pgp_keys.asc" ,
   "keybase":  "https://keybase.io/nomadops" ,
   "linkedin":  "https://linkedin.com/in/nomadops",
   "mastodon":  "https://mastodon.social/@nomadops",
