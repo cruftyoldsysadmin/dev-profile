@@ -53,7 +53,7 @@
     "Cloudformation": "expert" ,
     "Github Actions": "senior",
     "Kubernetes": "intermediate",
-    "CICD": "expert"
+    "CICD": "intermediate"
   },
   "citizenships": ["USA"],
   "timezone": "UTC+3",
