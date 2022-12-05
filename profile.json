@@ -51,7 +51,8 @@
     "python": "intermediate" ,
     "Terraform": "expert" ,
     "Cloudformation": "expert" ,
-    "Github Actions": "senior" 
+    "Github Actions": "senior",
+    "Kubernetes": "intermediate"
   },
   "citizenships": ["USA"],
   "timezone": "UTC+3",
