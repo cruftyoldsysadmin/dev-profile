@@ -9,7 +9,7 @@
   "podcast": "https://podcast.podcast/cruftyoldsysadmin",
   "slack":  "https://nomadops.slack.com",
   "terraform_registy": "https://registry.terraform.io/users/nomadops" ,
-  "twitter": "nomadops",
+  "twitter": "nomadopsio",
   "websites": [ { "url": "https://nomadops.io", "description": "Nomad Ops" } ],
   "youtube": "https://youtube.com/nomadops",
   "github_repositories": [
