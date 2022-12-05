@@ -7,7 +7,7 @@
   "linkedin":  "https://linkedin.com/in/cruftyoldsysadmin",
   "mastodon":  "https://mastodon.social/@cruftyoldsysadmin",
   "podcast": "https://podcast.podcast/cruftyoldsysadmin",
-  "slack":  "https://nomadops.slack.com",
+  "slack":  "https://nomadops.slack.com/",
   "terraform_registy": "https://registry.terraform.io/users/nomadops" ,
   "twitter": "nomadopsio",
   "websites": [ { "url": "https://nomadops.io", "description": "Nomad Ops" } ],
