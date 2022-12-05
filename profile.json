@@ -52,7 +52,8 @@
     "Terraform": "expert" ,
     "Cloudformation": "expert" ,
     "Github Actions": "senior",
-    "Kubernetes": "intermediate"
+    "Kubernetes": "intermediate",
+    "CICD": "expert"
   },
   "citizenships": ["USA"],
   "timezone": "UTC+3",
