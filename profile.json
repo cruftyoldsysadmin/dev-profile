@@ -38,7 +38,7 @@
     "golang",
     "containers"
   ],
-  "long_summary": "Infrastructure as code consulting in a verbose manner",
+  "long_summary": "I have been working with production infrastructure for about 25 years. My primary interests now are implementing DevOps pipelines with Infrastructure as Code. I love working with AWS Terraform/Terragrunt, Kubernetes and Golang. ",
   "name": "Cruftyold Sysadmin",
   "profile_image": "https://avatars.githubusercontent.com/u/20204452?v=4",
   "short_summary": "Infrastructure as code consulting",
