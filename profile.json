@@ -65,5 +65,5 @@
       "url": "https://cert.verifier/1234"
     }
   ],
-  "mailing_list": true
+  "mailing_list": false
 }
