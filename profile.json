@@ -49,7 +49,7 @@
   "skills": {
     "bash": "expert",
     "golang": "intermediate" ,
-    "python": "intermediate" ,
+    "python": "beginner" ,
     "Terraform": "expert" ,
     "Github Actions": "senior",
     "Kubernetes": "senior",
