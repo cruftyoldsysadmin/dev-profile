@@ -1,5 +1,5 @@
 {
-  "email": { "address": "no-reply@nomadops.io" },
+  "email": { "address": "noreply@nomadops.io" },
   "blog": "https://myblog.com/" ,
   "github": "cruftyoldsysadmin" ,
   "gpg_keys": "https://keybase.io/cruftyoldsysadmin/pgp_keys.asc" ,
