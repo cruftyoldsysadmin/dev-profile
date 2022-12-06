@@ -52,7 +52,7 @@
     "python": "intermediate" ,
     "Terraform": "expert" ,
     "Github Actions": "senior",
-    "Kubernetes": "intermediate",
+    "Kubernetes": "senior",
     "CICD": "intermediate",
     "Pulumi": "Beginner"
   },
