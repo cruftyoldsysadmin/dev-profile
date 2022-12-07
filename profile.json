@@ -15,7 +15,7 @@
   "github_repositories": [
     {
       "name": "nomadops/driftctl-slack",
-      "description": "Terraform module to provision driftctl."
+      "description": "Terraform module to provision driftctl"
     }
   ],
   "headline": "DevOps pipeline and Infrastructure as Code consulting.",
