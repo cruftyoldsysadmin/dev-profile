@@ -50,7 +50,7 @@
     "golang": "intermediate" ,
     "python": "beginner" ,
     "Terraform": "expert" ,
-    "Github Actions": "Sr",
+    "Github Actions": "expert",
     "Kubernetes": "senior",
     "CICD": "intermediate",
     "Pulumi": "beginner"
