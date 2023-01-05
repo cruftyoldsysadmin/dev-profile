@@ -20,6 +20,7 @@
   "headline": "Senior DevOps pipeline and Infrastructure as Code (IAC) consulting",
   "industries": [ "startups", "cloud" ],
   "job_title": "Infrastructure as Code Consultant",
+  "title": "Infrastructure as Code Consultant",
   "keywords": [
     "terraform",
     "terragrunt",
