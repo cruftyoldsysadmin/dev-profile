@@ -13,7 +13,8 @@
   "youtube": "https://youtube.com/nomadops",
   "github_repositories": [
     {
-      "name": "nomadops/driftctl-slack",
+      "owner": "nomadops",
+      "name": "driftctl-slack",
       "description": "Terraform module to provision driftctl."
     }
   ],
