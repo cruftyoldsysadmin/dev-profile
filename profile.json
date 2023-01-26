@@ -21,8 +21,7 @@
       "owner": "cruftyoldsysadmin",
       "name": "dev-profile",
       "description": "Terraform module to provision driftctl."
-    },
-
+    }
   ],
   "headline": "Senior DevOps pipeline and Infrastructure as Code (IAC) consulting",
   "industries": [ "startups", "cloud" ],
