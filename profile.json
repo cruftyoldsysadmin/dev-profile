@@ -13,8 +13,8 @@
   "youtube": "https://youtube.com/nomadops",
   "github_repositories": [
     {
-      "owner": "nomadops",
-      "name": "driftctl-slack",
+      "owner": "cruftyoldsysadmin",
+      "name": "awesome-learning-resources",
       "description": "Terraform module to provision driftctl."
     },
     {
