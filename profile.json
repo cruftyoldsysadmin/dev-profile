@@ -15,12 +15,12 @@
     {
       "owner": "cruftyoldsysadmin",
       "name": "awesome-learning-resources",
-      "description": "Terraform module to provision driftctl."
+      "description": "Awesome learning resources."
     },
     {
       "owner": "cruftyoldsysadmin",
       "name": "dev-profile",
-      "description": "Terraform module to provision driftctl."
+      "description": "profiles.dev profile."
     }
   ],
   "headline": "Senior DevOps pipeline and Infrastructure as Code (IAC) consulting",
