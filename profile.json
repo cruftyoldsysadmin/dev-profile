@@ -1,13 +1,13 @@
 {
-  "email": "noreply@nomadops.io" 
-  "blog": "https://myblog.com/" ,
-  "github": "cruftyoldsysadmin" ,
+  "email": "noreply@nomadops.io",
+  "blog": "https://myblog.com/",
+  "github": "cruftyoldsysadmin",
   "gpg_keys": "https://keybase.io/cruftyoldsysadmin/pgp_keys.asc" ,
   "keybase":  "https://keybase.io/cruftyoldsysadmin" ,
   "linkedin":  "https://linkedin.com/in/cruftyoldsysadmin",
   "podcast": "https://podcast.podcast/cruftyoldsysadmin",
   "slack":  "https://nomadops.slack.com/",
-  "terraform_registy": "https://registry.terraform.io/users/nomadops" ,
+  "terraform_registy": "https://registry.terraform.io/users/nomadops",
   "twitter": "nomadopsio",
   "websites": [ { "url": "https://nomadops.io", "description": "nomadops.io" } ],
   "youtube": "https://youtube.com/nomadops",
@@ -20,7 +20,7 @@
     {
       "owner": "cruftyoldsysadmin",
       "name": "dev-profile",
-      "description": "profiles.dev profile."
+      "description": "profiles.dev user profile template repository."
     }
   ],
   "headline": "Senior DevOps pipeline and Infrastructure as Code (IAC) consulting",
