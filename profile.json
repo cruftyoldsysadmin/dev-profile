@@ -10,7 +10,7 @@
   "terraform_registy": "https://registry.terraform.io/users/nomadops",
   "twitter": "nomadopsio",
   "websites": [ { "url": "https://nomadops.io", "description": "nomadops.io" } ],
-  "youtube": "https://youtube.com/nomadops",
+  "youtube": "https://youtube.com/nomadopsllc",
   "github_repositories": [
     {
       "owner": "cruftyoldsysadmin",
