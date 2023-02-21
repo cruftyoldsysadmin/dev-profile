@@ -55,6 +55,7 @@
     "golang": "intermediate" ,
     "python": "beginner" ,
     "Terraform": "expert" ,
+    "Terragrunt": "expert" ,
     "Github Actions": "expert",
     "Kubernetes": "senior",
     "CICD": "intermediate",
