@@ -50,7 +50,7 @@
     { "name": "English", "level": "native" }
   ],
   "skills": {
-    "bash": "expert",
+    "bash": "Expert",
     "drumming": "mid-level",
     "golang": "intermediate" ,
     "python": "beginner" ,
