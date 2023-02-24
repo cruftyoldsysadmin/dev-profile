@@ -39,7 +39,6 @@
     "cicd",
     "github actions",
     "jenkins",
-    "pulumi",
     "golang"
   ],
   "long_summary": "I have been working with production infrastructure for about 25 years. My primary interests are implementing DevOps pipelines with Infrastructure as Code. I love working with AWS Terraform/Terragrunt, Kubernetes and Golang. ",
