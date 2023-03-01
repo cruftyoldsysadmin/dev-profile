@@ -20,7 +20,7 @@
     {
       "owner": "cruftyoldsysadmin",
       "name": "dev-profile",
-      "description": "profiles.dev user profile template repository."
+      "description": "profiles.dev user profile template repository"
     }
   ],
   "headline": "Senior DevOps pipeline and Infrastructure as Code (IAC) consulting",
