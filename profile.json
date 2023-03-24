@@ -61,10 +61,10 @@
   "timezone": "UTC+3",
   "certifications": [
     {
-      "name": "AWS Certified SysOps Administrator - Associate",
-      "start_date": "2020-01-01",
-      "end_date": "2022-01-01",
-      "url": "https://cert.verifier/1234"
+      "name": "AWS Certified Cloud Practitioner",
+      "start_date": "2023-02-20",
+      "end_date": "2026-02-20",
+      "url": "https://www.credly.com/badges/02f8cc96-da8d-4d61-9250-f564d6a662a8/public_url"
     }
   ],
   "mailing_list": false
